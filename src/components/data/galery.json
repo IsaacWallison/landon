@@ -1,0 +1,23 @@
+[
+  {
+    "image": "intro_room",
+    "alt": "Intro Gallery Room Sample Pictures"
+  },
+  {
+    "image": "intro_pool",
+    "alt": "Intro Gallery Pool Sample Pictures"
+  },
+  {
+    "image": "intro_dining",
+    "alt": "Intro Gallery Dining Sample Pictures"
+  },
+  {
+    "image": "intro_attractions",
+    "alt": "Intro Gallery Attractions Sample Pictures"
+  },
+  {
+    "image": "intro_wedding",
+    "alt": "Intro Gallery Wedding Sample Pictures",
+    "className": "hidesm"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "href": "#hotelinfo",
+    "text": "info"
+  },
+  {
+    "href": "#rooms",
+    "text": "rooms"
+  },
+  {
+    "href": "#dining",
+    "text": "dining"
+  },
+  {
+    "href": "#events",
+    "text": "events"
+  },
+  {
+    "href": "#attractions",
+    "text": "attractions"
+  }
+]
